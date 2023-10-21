@@ -1,1 +1,1 @@
-# This is just a sample for git practice 
+# This is just a sample repo for git practice 
